@@ -1,0 +1,34 @@
+#sampleSection
+{
+    margin: 128px 240px;
+
+}
+
+#sampleSectionHeader
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 24px;
+    margin-bottom: 48px;
+}
+
+#sampleSectionGalleryList
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
+.sampleSectionGalleryListItems
+{
+    list-style-type: none;
+}
+
+.sampleSectionGalleryImages
+{
+    width: 342px;
+    height: 396px;
+    /* height: auto; */
+}

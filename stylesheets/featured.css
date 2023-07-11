@@ -1,0 +1,59 @@
+#featuredSection
+{
+    margin-top: 176px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 128px;
+    display: flex;
+    gap: 48px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#featuredSectionGalleryItemList
+{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.featuredSectionGalleryItems
+{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+}
+
+.featuredSectionGalleryItemImage
+{
+    width: 100%;
+    height: auto;
+}
+
+.featuredSectionGalleryItemsImageHolder
+{
+width: 150px;
+height: 269px;
+padding-left: 38px;
+padding-right: 38px;
+padding-bottom: 0px;
+padding-top: 55px;
+flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+
+.featuredSectionGalleryItemHeading
+{
+    text-decoration: none;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}

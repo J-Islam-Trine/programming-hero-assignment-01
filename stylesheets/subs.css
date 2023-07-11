@@ -1,0 +1,32 @@
+#signUpSection
+{
+    margin: 128px 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/images/Rectangle\ 9.png');
+    background-repeat: none;
+    background-size: cover;
+    padding: 122px 142px;
+    gap: 40px;
+}
+
+#subForm
+{
+    display: flex;
+    gap: 16px;
+}
+
+#emailInputBox
+{
+    padding: 22px 0 22px 22px;
+    width: 500px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+

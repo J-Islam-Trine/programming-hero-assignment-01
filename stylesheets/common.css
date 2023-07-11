@@ -1,0 +1,35 @@
+.primaryButton
+{
+    border-radius: 8px;
+background: #E55473;
+color: white;
+border: 0;
+padding: 20px 43px;
+}
+
+
+
+.sublevelTitles
+{
+    font-family: 'Raleway', sans-serif;
+    color: #272727;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+text-align: center;
+font-size: 40px;
+}
+
+.sublevelSubtitles
+{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+}
+
+.highlight-red
+{
+    color: #E55473;
+}

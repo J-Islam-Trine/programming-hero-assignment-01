@@ -1,0 +1,22 @@
+#offerSection
+{
+    display: flex;
+background: rgba(229, 84, 115, 0.05);
+padding: 100px 185px;
+gap: 92px;
+align-items: center;
+}
+
+#offerSectionText
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 24px;
+}
+
+#offerSectionImage
+{
+    height: 50%;
+}
